@@ -90,3 +90,30 @@ https://raw.githubusercontent.com/Gl1ch5/asets/ccr-a6947091-rnmk7v/industrial_am
   - HDRI: 2
   - звуки: 13
   - файл, подготовленный для агентов: RESOURCES.txt
+
+====================================================================
+ВНЕШНИЕ ПУБЛИЧНЫЕ ИСТОЧНИКИ (не в репозитории)
+Ссылки на сайты, не на файлы. Лицензию на каждой странице проверять перед использованием.
+Формат: САЙТ | лицензия | что брать | статус проверки
+
+--- Текстуры (PBR: albedo, normal, roughness, AO, height) ---
+https://ambientcg.com                 | CC0      | бетон, плитка, грунт, 1K-16K, EXR/JPG  | лицензия подтверждена поиском
+https://polyhaven.com/textures        | CC0      | материалы, 1K-16K                      | подтверждено поиском (CC0)
+
+--- HDRI (небо, освещение) ---
+https://polyhaven.com/hdris           | CC0      | HDRI-небо, 1K-16K, HDR/EXR             | подтверждено поиском (CC0)
+https://openhdri.org                  | CC0      | HDRI небо, меньше библиотека           | подтверждено поиском (CC0)
+
+--- Звуки (шаги, выстрелы, перезарядка, эмбиент) ---
+https://freesound.org                 | фильтр: CC0 | шаги по бетону/грунту, пистолет, эмбиент | ссылка из общих знаний, не открывалась
+https://opengameart.org               | фильтр: CC0 | игровые звуки и паки                    | ссылка из общих знаний, не открывалась
+https://alienanthony.itch.io/gun-sounds | Public Domain Dedication (почти CC0) | выстрелы пистолета, .wav | найдено поиском, точные условия не открывались
+https://mayragandra.itch.io/free-footsteps-sound-effects | лицензия не указана | шаги по разным поверхностям | найдено поиском, лицензию проверить
+
+--- 3D-модели (low-poly, glTF/GLB) ---
+https://kenney.nl/assets              | CC0      | низкополигональные паки, GLB/GLTF      | ссылка из общих знаний, не открывалась
+https://quaternius.com               | CC0      | низкополигональные паки, GLTF/GLB/FBX  | подтверждено поиском (CC0)
+https://kaylousberg.itch.io/prototype-bits | CC0 (KayKit) | low-poly паки, GLTF/OBJ/FBX     | подтверждено поиском (CC0)
+
+--- Не брать без проверки ---
+https://poly.pizza                    | в основном CC-BY, частично CC0 | модели, GLB | лицензию у каждой модели проверять
